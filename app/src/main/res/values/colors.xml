@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#19A24A</color>
+    <color name="colorPrimaryDark">#16783A</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="icon">@android:color/white</color>
+    <color name="black_transparent">#55000000</color>
+    <color name="notifications">#F20000</color>
+    <color name="button">#19A24A</color>
+    <color name="send">#4F9B1C</color>
+    <color name="back">#DB0A0A</color>
+    <color name="disabled">#999999</color>
+    <color name="route">#338ED8</color>
+</resources>

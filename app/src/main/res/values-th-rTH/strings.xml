@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EASYGAS</string>
+    <string name="loading">กำลังโหลด</string>
+    <string name="tasks_amount">มีงานทั้งหมด  %1$d งาน</string>
+    <string name="tasks">สั่งซื้อ</string>
+    <string name="reorder">สั่งใหม่</string>
+    <string name="label_gas_low_tank_amount">มี %1$d ถังกำลังจะหมด</string>
+    <string name="auto_reorder_label">สั่งใหม่อัตโนมัติเมื่อใกล้หมด</string>
+    <string name="gas_tank_quantity">จำนวนถังที่ต้องการสั่งซื้อ</string>
+    <string name="price">ราคา</string>
+    <string name="label_ordered">%1$d ถังกำลังจัดส่ง</string>
+    <string name="order_confirmation_title">ยืนยันการสั่งซื้อ</string>
+    <string name="label_confirmation">ถังแก๊ส x %1$d</string>
+    <string name="order_success_label">สั่งซื้อถังแก๊ส %1$d เรียบร้อยแล้ว</string>
+    <string name="total_price">ราคาทั้งหมด %1$d ฿</string>
+    <string name="send_back">คืน</string>
+    <string name="send">ส่ง</string>
+    <string name="task_title">รายการงาน</string>
+    <string name="arrived">ถึงที่หมายแล้ว</string>
+    <string name="distance">ระยะทาง</string>
+</resources>
